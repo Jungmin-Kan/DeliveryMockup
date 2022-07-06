@@ -3,6 +3,10 @@
     "name": "foogetherDelivery",
     "slug": "foogetherDelivery",
     "version": "1.0.0",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain"
+    },
     "assetBundlePatterns": [
       "**/*"
     ]
